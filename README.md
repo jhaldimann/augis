@@ -35,8 +35,8 @@ https://lx19.hoststar.hosting/lx-phpmyadmin/db_structure.php?server=1db=ch299816
 
 DB-Host: lx19.hoststar.hosting
 DB-Name: ch299816_augis
-Username: ch299816_admin
-Password: 24ii&e3tK7d
+Username: ***
+Password: ***
 
 
 # IOS App
